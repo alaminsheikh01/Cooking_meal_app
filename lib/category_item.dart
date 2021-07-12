@@ -16,6 +16,13 @@ class CategoryItem extends StatelessWidget {
         },
       ),
     );
+    // Navigator.of(context).pushNamed(
+    //   '/category-meals',
+    //   arguments: {
+    //     'id': id,
+    //     'title': title,
+    //   },
+    // );
   }
 
   @override
