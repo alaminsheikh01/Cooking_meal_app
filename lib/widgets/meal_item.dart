@@ -60,7 +60,7 @@ class MealItem extends StatelessWidget {
           borderRadius: BorderRadius.circular(15),
         ),
         elevation: 4,
-        margin: EdgeInsets.all(10),
+        margin: EdgeInsets.all(20),
         child: Column(
           children: <Widget>[
             Stack(
